@@ -1,0 +1,2 @@
+# SlideSidebar
+自定义DrawerLayout实现一个侧边栏，在侧边栏打开的时候可以操作主界面，并且不会收起侧边栏，而且可以通过里面的Log日志了解整个Android触摸事件分发的流程！
